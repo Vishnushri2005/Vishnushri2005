@@ -159,7 +159,7 @@ Featured Projects
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [**Hospital Management System**](https://github.com/Vishnushri2005) | React JS Â· Spring Boot Â· MySQL Â· JPA Â· JWT | Full-stack hospital web app with patient booking, token-based queue system, doctor dashboard, and real-time waiting display |
+| [**Hospital Management System**](https://github.com/Vishnushri2005) | React JS, Spring Boot, MySQL , JPA , JWT | Full-stack hospital web app with patient booking, token-based queue system, doctor dashboard, and real-time waiting display |
 | **Plasma Pyrolysis of Plastics** | Research & Engineering Design | Designed a zero-emission system to convert plastic waste into energy; promoted sustainable eco-friendly waste management |
 
 </div>
@@ -171,11 +171,10 @@ Featured Projects
 <div align="center">
 
 | Achievement | Details |
-|----|-------------|---------|
 | **First Prize â€“ Hospital Management System** | Won 1st prize at project exhibition for building a full-stack HMS with real-time queuing |
-| **First Prize â€“ UPI Fraud Detection** | Won 1st prize at paper presentation for research on UPI fraud detection techniques |
-| **NPTEL Elite â€“ Artificial Intelligence** | Achieved Elite grade in NPTEL's AI certification course |
-| **NPTEL Elite â€“ Data Science Using Python** | Achieved Elite grade in NPTEL's Data Science with Python course |
+| **First Prize- UPI Fraud Detection** | Won 1st prize at paper presentation for research on UPI fraud detection techniques |
+| **NPTEL Elite- Artificial Intelligence** | Achieved Elite grade in NPTEL's AI certification course |
+| **NPTEL Elite - Data Science Using Python** | Achieved Elite grade in NPTEL's Data Science with Python course |
 | **Bureau of Indian Standards (BIS) Certified** | Earned BIS certification recognising quality and standards compliance |
 | **NSS Certification** | Awarded National Service Scheme certificate for community service contributions |
 
@@ -189,7 +188,7 @@ Featured Projects
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.E. Computer Science Engineering | Dhirajlal Gandhi College of Technology, Salem | 2022 â€“ 2026 | CGPA: **7.88** |
+| B.E. Computer Science Engineering | Dhirajlal Gandhi College of Technology, Salem | 2022 - 2026 | CGPA: **7.88** |
 | HSC (Class XII) | Bala Barathi Mat. Hr. Sec. School, Salem | 2020 - 2022 | **78%** |
 | SSLC (Class X) | Bala Barathi Mat. Hr. Sec. School, Salem | 2018 - 2020 | **76%** |
 
@@ -200,11 +199,11 @@ Featured Projects
 Currently Learning
 
 ```text
- Microservices    Spring Cloud Â· Service Discovery Â· API Gateway
- DevOps           Docker Â· Kubernetes Â· CI/CD Pipelines
- System Design    HLD Â· LLD Â· Scalability Patterns
- DSA              LeetCode Â· Dynamic Programming Â· Graphs
- AI/ML            Python Â· Scikit-learn Â· Model Evaluation
+ Microservices    Spring Cloud, Service Discovery, API Gateway
+ DevOps           Docker,Kubernetes, CI/CD Pipelines
+ System Design    HLD ,LLD, Scalability Patterns
+ DSA              LeetCode,Dynamic Programming,Graphs
+ AI/ML            Python,Scikit-learn,Model Evaluation
 ```
 
 ---
